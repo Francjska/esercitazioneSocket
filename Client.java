@@ -1,4 +1,4 @@
-public class CLient {
+public class Client {
 	public static void main (String args[]) throws IOException{
 		String hostname = "localhost";
 		int port = 12345;
